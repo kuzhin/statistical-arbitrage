@@ -5,4 +5,5 @@ __pycache__/
 
 # Original rules preserved
 *.log
+.env
 ```
